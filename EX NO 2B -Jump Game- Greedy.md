@@ -1,5 +1,5 @@
 
-# EX-2B " JUMP GAME USING GREEDY ALGORITHM
+# EX-2B : JUMP GAME USING GREEDY ALGORITHM
 
 ## AIM:
 To write a Java program to for given constraints.
